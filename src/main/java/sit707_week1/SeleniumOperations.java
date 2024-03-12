@@ -9,7 +9,7 @@ import org.openqa.selenium.Dimension;
  */
 public class SeleniumOperations {
 	
-	static String chromiumPath = "C:\\Users\\bksol\\Downloads\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe";	
+	static String chromiumPath = "C:\\Downloads\\chromedriver.exe";	
 	
 	public static void sleep(int sec) {
 		try {
